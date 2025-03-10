@@ -1,0 +1,241 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    background-color: black;
+}
+
+.container {
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.brand{
+    display: flex;
+}
+
+.imgg{
+    background-color: #D68240;
+    width: 34px;
+    height: 41px;
+    border-radius: 8px;
+    text-align: center;
+    top: 3.5px;
+}
+
+.home a{
+    text-decoration: none;
+    margin-left: 24px;
+    color: #fff;
+}
+
+button{
+    height: 48px;
+    width: 140px;
+    background-color: #D68240;
+    border-radius: 4px;
+    border: none;
+    font-weight: 500;
+    color: #fff;
+}
+.RESERVATION{
+   
+    padding: 25px 120px;
+    background-image: url(img/1e8822e31bf60deec87caeb24dd2a705.png);
+    height: 100vh;
+    background-image: no repeat;
+    background-size: cover;
+   
+    
+}
+.RESERVATION nav {
+    display: flex;
+    justify-content: space-between ;
+}
+
+.bacgrond{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+   height: 70vh;
+   margin-top: 100px;
+}
+.bacgrond h1{
+    font-size: 64px;
+    font-weight: 600;
+    color: #fff;
+}
+.bacgrond p{
+    font-weight: 600;
+    color: #fff;
+}
+.btn-3{
+display: flex;
+gap: 5px;
+}
+
+.coffee {
+    color: #fff;
+    margin-top: 50px;
+}
+.coffee h1{
+    font-size: 36px;
+    font-weight: 600;
+}
+.more{
+    color: #797B78;
+}
+.img-5 img{
+   
+    width: 500px;
+    height: 500px;
+}
+.Invite{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 120px;
+}
+.Dolor{
+    color: #fff;
+    text-align: center;
+    margin-top: 100px;
+}
+.Dolor h1{
+    font-size: 36px;
+
+}
+.menu{
+    color: #fff;
+    text-align: center;
+}
+.Quality{
+    display: flex;
+    gap: 24px;
+    padding: 50px 120px;
+}
+.Working{
+    background-image: url(img/Rectangle\ 682.png);
+    height: 50vh;
+    background-image: no repeat;
+    background-size: cover;
+    color: #fff;
+
+    
+}
+.Working button{
+    width: 111px;
+    height: 24px;
+    background-color: #D68240;
+}
+.Working{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 120px;;
+}
+.date{
+    width: 280px;
+    height: 254px;
+    padding: 50px 40px;
+    background-color: #121A1D;
+}
+.varius{
+    color: #fff;
+    text-align: center;
+    margin-top: 100px;
+}
+.varius h1{
+    font-size: 36px;
+    font-weight: 600;
+
+}
+.blandit{
+    color:#797B78;;
+}
+.people{
+    display: flex;
+    justify-content: space-between;
+    padding:50px 120px; ;
+    background-color: #10181B;
+}
+.daily{
+    color: #fff;
+}
+
+.Simple{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 120px;;
+    align-items: center;
+    text-align: center;
+}
+.Explore{
+    color: #fff;
+    text-align: center;
+}
+.Order{
+    color: #fff;
+}
+
+.Toast{
+    color: #D68240;
+    font-size: 24px;
+}
+.Serves{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    
+}
+.Order img{
+    width: 350px;
+}
+.outline{
+    display: flex;
+    justify-content: space-between;
+    padding:  50px 120px;
+    gap: 24px;
+}
+.banner{
+  background-image: url(img/Rectangle\ 685.png);  
+  height: 50vh;
+    background-image: no repeat;
+    background-size: cover;
+    color: #fff;
+    padding:  50px 120px;
+    
+} 
+.banner input{
+    width: 53%;
+    height: 47px;
+    border-radius: 8px;
+    border: none;
+    background-color: #182F31;
+  
+}
+.banner h1{
+    font-size: 36px;
+    font-weight: 600;
+}
+.img-6{
+    background-color: #D68240;
+    width: 34px;
+    height: 41px;
+    border-radius: 8px;
+    text-align: center;
+    top: 3.5px;
+    display: flex;
+    gap: 18px;
+    align-items: center;
+}
+.timeline{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 120px;
+    background-color: #121A1D;
+}
+.timeline h2{
+    color: #fff;
+}
